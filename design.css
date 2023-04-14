@@ -37,7 +37,7 @@ section{
     min-height: 70vh;
     padding: 9rem 9% 2rem;
     color: #a52a2a;
-    background-image: url("bgggg.jpg");
+    background-image: url("image/bgggg.jpg");
 
 }
 
@@ -80,7 +80,7 @@ section{
 }
 
 .home{
-    background-image: url("bgggg.jpg");
+    background-image: url("image/bgggg.jpg");
     background-repeat: inherit;
     display: flex;
     justify-content: center;
